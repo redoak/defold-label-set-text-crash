@@ -1,0 +1,3 @@
+function init(self)
+	label.set_text('.', 'A')
+end
